@@ -1,0 +1,8 @@
+Functional Requirement:
+- Can select keyboard based-on each language.
+- Clipboard History
+- Clear All Display
+- Keyboardpad
+- Display 
+
+Non-Functional Requirement:
